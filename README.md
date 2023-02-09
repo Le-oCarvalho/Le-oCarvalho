@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Le-oCarvalho&color=green" alt="Profile views" /> </p>
 
-🔥 Junior Python Developer focused on helping people get started in programming
+🔥 Junior Python Developer and Data Analyst/Scientist
+
+🔮 I really like [Python](https://www.python.org/) language
 
 🔭 Focused on helping people get started in programming
 
