@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Leo Carvalho</h1>
 
-<!--
-**Le-oCarvalho/Le-oCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Le-oCarvalho&color=green" alt="Profile views" /> </p>
 
-Here are some ideas to get you started:
+🔥 Junior Python Developer focused on helping people get started in programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Focused on helping people get started in programming
+
+💬 Ask me about **Python, SQL, Machine Learning**
+
+⚡ Will talk about Philosophy and Data Science all day long 😜
+
+## Contact
+
+<a href="https://twitter.com/poisonoak35" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LeoCarvalho-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/leonardocarvalho1996" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LeoCarvalho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/nostemosouro" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-LeoCarvalho-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
