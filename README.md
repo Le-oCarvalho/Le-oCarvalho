@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Le-oCarvalho&color=green" alt="Profile views" /> </p>
 
-🔥 Junior Python Developer and Data Analyst/Scientist
+🔥 Aspiring Junior Python Developer and Data Analyst/Scientist
 
 🔮 I really like [Python](https://www.python.org/) language
 
-🔭 Focused on helping people get started in programming
+💬 Talk to me about **Python, SQL, Machine Learning**
 
-💬 Ask me about **Python, SQL, Machine Learning**
-
-⚡ Will talk about Philosophy and Data Science all day long 😜
+⚡ Will talk about Philosophy, my dog and Data Science all day long 😜
 
 ## Contact
 
