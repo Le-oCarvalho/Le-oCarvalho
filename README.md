@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Leo Carvalho</h1>
 
-<img src="leohub2.gif" align="right" width="350" />
+<img src="leohub2.gif" align="right" width="355" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Le-oCarvalho&color=green" alt="Profile views" /> </p>
 
